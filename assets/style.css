@@ -52,11 +52,11 @@ body{
   display: none;
 }
 
-.foto .active{
+img.active{
   display: block;
 }
 
-i.active_circle{
+li.active i{
   border-radius: 100%;
   background-color: cadetblue;
 }
